@@ -16,8 +16,11 @@ A command line app that functions as a storefront i.e. Amazon that interacts wit
  - View Products,
  - See Low Inventory
  - Add to Inventory
+
  ![Manager View Gif Part 1](appdemo/managerview1gif.gif)
+ 
  - Add New Item 
+ 
  ![Manager View Gif Part 2](appdemo/managerview2gif.gif)
 
 ## Stack
